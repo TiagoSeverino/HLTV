@@ -1,5 +1,5 @@
 {
-  "name": "hltv",
+  "name": "hltv-onireves",
   "version": "3.4.2",
   "description": "The unofficial HLTV Node.js API",
   "main": "lib/index.js",
@@ -11,7 +11,7 @@
     "test:approve": "jest --runInBand --updateSnapshot",
     "pretty": "prettier --write \"**/*.ts\""
   },
-  "repository": "git+https://github.com/gigobyte/HLTV.git",
+  "repository": "git+https://github.com/TiagoSeverino/HLTV.git",
   "keywords": [
     "hltv",
     "api",
@@ -36,9 +36,9 @@
   "author": "Stanislav Iliev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gigobyte/HLTV/issues"
+    "url": "https://github.com/TiagoSeverino/HLTV/issues"
   },
-  "homepage": "https://github.com/gigobyte/HLTV#readme",
+  "homepage": "https://github.com/TiagoSeverino/HLTV#readme",
   "devDependencies": {
     "@types/cheerio": "0.22.31",
     "@types/jest": "27.5.2",
